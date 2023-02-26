@@ -1,0 +1,7 @@
+LLVM is a collection of modular and reusable compiler and toolchain technologies designed to optimize and produce high-performance software. It stands for "Low-Level Virtual Machine," although the name is somewhat misleading since LLVM is not a virtual machine in the traditional sense.
+
+LLVM was first developed in 2003 by Chris Lattner at the University of Illinois at Urbana-Champaign, and it is now a widely-used technology in industry and academia. It consists of a set of libraries and tools that can be used to build compilers, language runtimes, and other software development tools. LLVM includes a number of components, including a high-level intermediate representation (LLVM IR), a just-in-time compiler (LLVM JIT), and a variety of optimization passes and analysis tools.
+
+One of the key features of LLVM is its modularity, which allows developers to mix and match components to create customized toolchains for specific purposes. LLVM is also designed to be highly portable, and it can be used to target a wide variety of architectures and operating systems.
+
+LLVM is used by a number of major software projects, including the Clang C/C++ compiler, the Rust programming language, and the Swift programming language. It is also used in many commercial products and services, including game engines, databases, and virtual machines.
